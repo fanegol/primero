@@ -1,0 +1,10 @@
+#git add .
+#git commit -m "el mensaje"
+#git push
+#git pull
+##################################
+comandos para navegar en la terminal
+##################################
+dir (para ver los archivos existentes)
+# cd nombre_de_archivo (para entrar en el archivo)
+# cd .. (para salir del archivo)
